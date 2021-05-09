@@ -17,4 +17,19 @@ Here are few things you should know about me:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love connecting to new people
 - 🎯 Goal: Contribute to Open Source
+<br>
+<br>
 
+:heart: My Favourite Quote:
+
+> "DREAM is not what you see in sleep, DREAM is something which doesn't let you sleep" 
+> – Dr. A.P.J Abdul Kalam
+<br>
+<br>
+
+## 🛠️ Technologies I'm familiar with
+<br>
+<br>
+<br>
+## 🤝 Connect with Me :
+<br> 
