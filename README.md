@@ -1,5 +1,10 @@
 # Hi, I'm Shivam  :wave: 
 
+## A little About Me:
+
+- I'm a first-year student pursuing Bachelor's Degree in Information Technology from L C Bharali College, Guwahati, India.
+- I'm trying to get involve in Open Source to give back to the community
+- I also like to participate in Hackathons as it inspires me to think and build amazing Hacks
 
 Here are few things you should know about me:
 
