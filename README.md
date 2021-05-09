@@ -1,4 +1,6 @@
-# Hi Folks, I'm Shivam 👋 
+# Hi Folks 👋
+![Screenshot_1](https://user-images.githubusercontent.com/64413107/117572371-37382c80-b0f0-11eb-879a-488223c74fe8.jpg)
+
 ## A little About Me:
 
 - I'm a first-year student pursuing Bachelor's Degree in Information Technology from L C Bharali College, Guwahati, India.
@@ -32,12 +34,16 @@
 
 ## 🛠️Technologies I'm familiar with
 
+![](https://img.shields.io/badge/HTML-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CSS-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/JS-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Git-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GitHub-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VS-VS Code Editor-informational?style=flat&logo=vs-code&logoColor=white&color=2bbc8a)
 <br>
 <br>
 <br>
 ## 🤝 Connect with Me :
-<br> <!--
-![](https://img.shields.io/badge/mail-Gmail-informational?style=flat&logo=data:image/svg%2bxml;base64,BASE64_DATA)-->
-![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)![](https://www.twitter.com/web_shivam)
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)![](https://www.linkedin.com/in/ShivamDubey/)
+<br> 
+![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)![](https://twitter.com/web_shivam) <br>
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)(https://www.linkedin.com/in/Shivam-Dubey/)
