@@ -11,4 +11,5 @@ Here are few things you should know about me:
 - 📫 How to reach me: Twitter - @web_shivam
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love connecting to new people
+- 🎯 Goal: Contribute to Open Source
 
