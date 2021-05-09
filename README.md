@@ -28,22 +28,37 @@
 > – Dr. A.P.J Abdul Kalam
 <br>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=WebShivam"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebShivam&theme=light"/>
+<center>
+<img src="https://github-readme-stats.vercel.app/api?username=WebShivam"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebShivam&theme=light"/>
+</center>
 <br>
 
 ## 🛠️Technologies I'm familiar with
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />&nbsp;
+<br>
+<br>
 
-![](https://img.shields.io/badge/HTML-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CSS-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/JS-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Git-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/GitHub-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/VS-VS Code Editor-informational?style=flat&logo=vs-code&logoColor=white&color=2bbc8a)
-<br>
-<br>
-<br>
 ## 🤝 Connect with Me :
-<br> 
-![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)![](https://twitter.com/web_shivam) <br>
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)(https://www.linkedin.com/in/Shivam-Dubey/)
+
+<a href="https://twitter.com/web_shivam">
+         <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+      </a> &nbsp;
+ <a href="https://gmail.com/">
+         <img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a> &nbsp;
+<a href="https://linkedin.com/">
+         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+      </a>
+
+
