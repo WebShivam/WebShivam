@@ -1,9 +1,5 @@
-# Hi, I'm Shivam ![wave](https://raw.githubusercontent.com/vikasganiga05/vikasganiga05/master/assets/wave.gif)
+# Hi, I'm Shivam  :wave: 
 
-
-
-<!--
-**WebShivam/WebShivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are few things you should know about me:
 
