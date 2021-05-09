@@ -1,4 +1,4 @@
-# Hi, I'm Shivam ![wave](https://user-images.githubusercontent.com/64413107/117568106-72c8fb80-b0dc-11eb-945b-1fa0c6992de9.gif)
+# Hi, I'm Shivam ![wave](https://raw.githubusercontent.com/vikasganiga05/vikasganiga05/master/assets/wave.gif)
 
 
 
