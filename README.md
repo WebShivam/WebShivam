@@ -1,4 +1,5 @@
-# Hi, I'm Shivam ![Waving Hand Emoji]<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" "width=45">
+# Hi, I'm Shivam ![wave](https://user-images.githubusercontent.com/64413107/117568106-72c8fb80-b0dc-11eb-945b-1fa0c6992de9.gif)
+
 
 
 <!--
