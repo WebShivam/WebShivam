@@ -1,4 +1,4 @@
-# Hi There 👋 
+# Hello World! <img src="https://raw.githubusercontent.com/vikasganiga05/vikasganiga05/master/assets/wave.gif" width = "40px" />
 ![Screenshot_1](https://user-images.githubusercontent.com/64413107/117572371-37382c80-b0f0-11eb-879a-488223c74fe8.jpg)
 
 ## A little About Me:
@@ -11,8 +11,8 @@
 **Here are few things you should know about me:**
 
 - 🔭 I’m currently doing 100DaysOfCode Challenge 
-- 🌱 I’m currently learning FrontEnd Development at present
-- 👯 I’m looking to collaborate on new and innovative ideas
+- 🌱 I’m currently learning FrontEnd Development
+- 👯 I’m looking to collaborate on any ideas/project I can  contribute to
 - 🤔 I’m looking for help with Problem Solving
 - 💬 Ask me about how to start coding
 - 📫 How to reach me: Twitter - <a href="https://www.twitter.com/web_shivam"> @web_shivam  </a>
@@ -34,7 +34,7 @@
 </center>
 <br>
 
-## 🛠️Technologies I'm familiar with
+## 🛠️ Technologies I'm familiar with
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
