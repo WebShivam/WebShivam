@@ -48,7 +48,7 @@
 <br>
 <br>
 
-## 🤝 Connect with Me :
+## 🤝 Let's Connect :
 
 <a href="https://twitter.com/web_shivam">
          <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
@@ -56,7 +56,8 @@
  <a href="https://gmail.com/">
          <img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a> &nbsp;
-<a href="https://linkedin.com/">
+<a href="https://www.linkedin.com/in/shivam-dubey-872319147/">
          <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
       </a>
+   
 
