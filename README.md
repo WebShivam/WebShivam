@@ -28,13 +28,11 @@
 > – Dr. A.P.J Abdul Kalam
 <br>
 <br>
-<center>
-<img src="https://github-readme-stats.vercel.app/api?username=WebShivam"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebShivam&theme=light"/>
-</center>
-<br>
 
-## 🛠️ Technologies I'm familiar with
+<img align ="left" src="https://github-readme-stats.vercel.app/api?username=WebShivam"/> &nbsp; &nbsp; 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebShivam&theme=light"/> &nbsp; 
+<br>
+## 🛠️ Tools & Technologies I'm familiar with
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
@@ -47,6 +45,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />&nbsp;
 <br>
 <br>
+<br> <br> <br>
 
 ## 🤝 Let's Connect :
 
