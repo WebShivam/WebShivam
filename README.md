@@ -30,7 +30,7 @@
 <br>
 
 <img align ="left" src="https://github-readme-stats.vercel.app/api?username=WebShivam"/> &nbsp;
-<img align ="" height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebShivam&theme=light"/>
+<img height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebShivam&theme=light"/> <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=WebShivam"> 
 <br> <br> <br>
 ## 🛠️ Tools & Technologies I'm familiar with
