@@ -30,8 +30,9 @@
 <br>
 
 <img align ="left" src="https://github-readme-stats.vercel.app/api?username=WebShivam"/> &nbsp; &nbsp; 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebShivam&theme=light"/> &nbsp; 
-<br>
+<img align ="right" height="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebShivam&theme=light"/> <br> <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WebShivam"> 
+<br> <br> <br>
 ## 🛠️ Tools & Technologies I'm familiar with
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
@@ -45,7 +46,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />&nbsp;
 <br>
 <br>
-<br> <br> <br>
+<br>
 
 ## 🤝 Let's Connect :
 
