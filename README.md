@@ -30,9 +30,10 @@
 <br>
 
 <img align ="left" width="440" src="https://github-readme-stats.vercel.app/api?username=WebShivam"/> 
-<img align ="left" height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebShivam&theme=light"/> &nbsp; <br>
+<img align ="right" height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebShivam&theme=light"/> &nbsp; <br>
 <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=WebShivam"> 
 <br> <br> <br>
+
 ## 🛠️ Tools & Technologies I'm familiar with
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
