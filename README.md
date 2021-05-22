@@ -11,10 +11,10 @@
 **Here are few things you should know about me:**
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently doing 100DaysOfCode Challenge
-- 👯 I’m looking to collaborate on any ideas/project I can provide value
-- 🤔 I’m looking for help with Problem Solving
-- 💬 Ask me about how to start coding
+- 🌱 I’m currently learning Bootstrap
+- 👯 I’m looking to collaborate on Open Source Projects/Hackathons
+- 🤔 I’m looking for help with Backend Development
+- 💬 Ask me about how to begin your coding journey
 - 📫 How to reach me: Twitter - <a href="https://www.twitter.com/web_shivam"> @web_shivam  </a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love connecting to new people
