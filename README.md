@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<img align ="left" src="https://github-readme-stats.vercel.app/api?username=WebShivam"/> &nbsp;
+<img align ="left" src="https://github-readme-stats.vercel.app/api?username=WebShivam"/> 
 <img align ="left" height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebShivam&theme=light"/> &nbsp; <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=WebShivam"> 
 <br> <br> <br>
