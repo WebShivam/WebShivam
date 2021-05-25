@@ -11,7 +11,7 @@
 **Here are few things you should know about me:**
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Bootstrap
+- 🌱 I’m currently learning and exploring Web Dev technologies
 - 👯 I’m looking to collaborate on Open Source Projects/Hackathons
 - 🤔 I’m looking for help with Backend Development
 - 💬 Ask me about how to begin your coding journey
