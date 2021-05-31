@@ -29,9 +29,9 @@
 <br>
 <br>
 
-<img align ="left" width="440" src="https://github-readme-stats.vercel.app/api?username=WebShivam"/> 
-<img align ="right" height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebShivam&theme=light"/> &nbsp; 
-<img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=WebShivam"> 
+<img align ="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=WebShivam"/> 
+<img align ="right" widtht="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebShivam&theme=light"/> &nbsp; 
+<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=WebShivam"> 
 <br> <br> <br>
 
 ## 🛠️ Tools & Technologies I'm familiar with
