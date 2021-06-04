@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning and exploring Web Dev technologies
 - 👯 I’m looking to collaborate on Open Source Projects/Hackathons
 - 🤔 I’m looking for help with Backend Development
-- 💬 Ask me about how to begin your coding journey
+- 💬 Ask me about anything I am happy to help if I can
 - 📫 How to reach me: Twitter - <a href="https://www.twitter.com/web_shivam"> @web_shivam  </a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love connecting to new people
