@@ -4,7 +4,7 @@
 ## A little About Me:
 
 - I'm a first-year student pursuing Bachelor's Degree in Information Technology from L C Bharali College, Guwahati, India.
-- I'm trying to get involve in Open Source to give back to the community
+- I'm getting involved in open source to give back to the community
 - I also like to participate in Hackathons as it inspires me to think and build amazing Hacks
 <br> 
 
