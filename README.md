@@ -1,5 +1,6 @@
 # Hello World! <img src="https://raw.githubusercontent.com/vikasganiga05/vikasganiga05/master/assets/wave.gif" width = "40px" />
-![Screenshot_1](https://user-images.githubusercontent.com/64413107/117572371-37382c80-b0f0-11eb-879a-488223c74fe8.jpg)
+
+![header-image](https://user-images.githubusercontent.com/64413107/128603909-cc2b7e49-29ac-46f7-88fe-a8b24b9eee03.png)
 
 ## A little About Me:
 
