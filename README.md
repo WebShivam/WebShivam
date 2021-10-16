@@ -12,9 +12,8 @@
 **Here are few things you should know about me:**
 
 - 🔭 I’m currently working on my 100DaysOfCode Challenge
-- 🌱 I’m currently learning and exploring Web Dev technologies
+- 🌱 I’m currently learning & exploring Web Dev technologies
 - 👯 I’m looking to collaborate on Open Source Projects/Hackathons
-- 🤔 I’m looking for help with FrontEnd Development
 - 💬 Ask me about anything I am happy to help if I can
 - 📫 How to reach me: Twitter - <a href="https://www.twitter.com/web_shivam"> @web_shivam  </a>
 - 😄 Pronouns: He/Him
