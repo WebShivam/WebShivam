@@ -4,21 +4,22 @@
 
 ## A little About Me:
 
-- I'm a first-year student pursuing Bachelor's Degree in Information Technology from L C Bharali College, Guwahati, India.
-- I'm getting involved in open source to give back to the community
-- I also like to participate in Hackathons as it inspires me to think and build amazing Hacks
+- I'm a student, a nascent Developer and Tech Enthusiast who believes in bringing ideas to life with code 
+- I loves to mentor/guide beginners in kickstarting their coding journey
+- I also likes to participate in Hackathons as it helps me to acquire new skills, getting awesome friends and building amazing hacks as outcome
 <br> 
 
 **Here are few things you should know about me:**
 
-- 🔭 I’m currently working on my 100DaysOfCode Challenge
-- 🌱 I’m currently learning & exploring Web Dev technologies
-- 👯 I’m looking to collaborate on Open Source Projects/Hackathons
+- 🔭 I’m currently pursuing my bachelor's degree in IT, passionate about Web Dev, DevOps & enjoy learning new things
+- 🌱 I’m currently working on my Problem Solving Skills in Data Structures and Algorithms.
+- 👯 I’m looking forward to collaborate on different open-source projects
 - 💬 Ask me about anything I am happy to help if I can
 - 📫 How to reach me: Twitter - <a href="https://www.twitter.com/web_shivam"> @web_shivam  </a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love connecting to new people
-- 🎯 Goal: Contribute to Open Source
+- ⚡ Fun fact: I feel awesome while working with others. 
+- 🎯 Goal: Contribute to Open Source & build better OSS projects
+- 🤩 When I'm not coding, you can find me building Wordpress Websites for local business, Tutoring High School Students, Travelling or Hanging out with friends
 <br>
 <br>
 
