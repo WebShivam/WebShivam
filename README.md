@@ -19,7 +19,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I feel awesome while working with others. 
 - 🎯 Goal: Contribute to Open Source & build better OSS projects
-- 🤩 When I'm not coding, you can find me building Wordpress Websites for local business, Tutoring High School Students, Travelling or Hanging out with friends
+- 🤩 When I'm not coding, you can find me helping local business with Tech, Tutoring High School Students, Travelling or Hanging out with friends
 <br>
 <br>
 
