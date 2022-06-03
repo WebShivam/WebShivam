@@ -1,4 +1,4 @@
-# Hello World! <img src="https://raw.githubusercontent.com/vikasganiga05/vikasganiga05/master/assets/wave.gif" width = "40px" />
+# Hello World! <img src="https://raw.githubusercontent.com/vikasganiga05/vikasganiga05/master/assets/wave.gif" width = "14px" />
 
 ![header-image](https://user-images.githubusercontent.com/64413107/128603909-cc2b7e49-29ac-46f7-88fe-a8b24b9eee03.png)
 
@@ -19,7 +19,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I feel awesome while working with others. 
 - 🎯 Goal: Contribute to Open Source & build better OSS projects
-- 🤩 When I'm not coding, you can find me helping local business with Tech, Tutoring High School Students, Travelling or Hanging out with friends
+- 🤩 When I'm not at my laptop, you can find me helping local business with Tech, Tutoring High School Students, else Travelling or Hanging out with friends
 <br>
 <br>
 
