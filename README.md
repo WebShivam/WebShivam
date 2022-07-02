@@ -52,6 +52,8 @@
 <br>
 <br>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=WebShivam&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
 ## 🤝 Let's Connect :
 
 <a href="https://twitter.com/web_shivam">
