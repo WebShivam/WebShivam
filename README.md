@@ -14,12 +14,12 @@
 - 🔭 I’m currently pursuing my bachelor's degree in IT, passionate about Web Dev, DevOps & enjoy learning new things
 - 🌱 I’m currently working on my Problem Solving Skills in Data Structures and Algorithms.
 - 👯 I’m looking forward to collaborate on different open-source projects
-- 💬 Ask me about anything I am happy to help if I can
+- 💬 Ask me about anything I am happy to help 
 - 📫 How to reach me: Twitter - <a href="https://www.twitter.com/web_shivam"> @web_shivam  </a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I feel awesome while working with others. 
 - 🎯 Goal: Contribute to Open Source & build better OSS projects
-- 🤩 When I'm not at my laptop, you can find me helping local business with Tech, Tutoring High School Students, else Travelling or Hanging out with friends
+- 🤩 When I'm not at my laptop, you can find me Playing, Tutoring, or Hanging out with friends
 <br>
 <br>
 
