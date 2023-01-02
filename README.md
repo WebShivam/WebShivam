@@ -1,4 +1,4 @@
-# Hello World! <img src="https://raw.githubusercontent.com/vikasganiga05/vikasganiga05/master/assets/wave.gif" height = "42px" />
+ # Hello World! <!-- <img src="[https://tenor.com/view/hand-gif-24581588]" height = "42px" /> -->
 
 ![header-image](https://user-images.githubusercontent.com/64413107/128603909-cc2b7e49-29ac-46f7-88fe-a8b24b9eee03.png)
 
@@ -52,8 +52,8 @@
 <br>
 <br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=WebShivam&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=WebShivam&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+ -->
 ## 🤝 Let's Connect :
 
 <a href="https://twitter.com/web_shivam">
