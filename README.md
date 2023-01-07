@@ -1,6 +1,6 @@
  # Hello World! <!-- <img src="[https://tenor.com/view/hand-gif-24581588]" height = "42px" /> -->
 
-![header-image](https://user-images.githubusercontent.com/64413107/128603909-cc2b7e49-29ac-46f7-88fe-a8b24b9eee03.png)
+<!-- ![header-image](https://user-images.githubusercontent.com/64413107/128603909-cc2b7e49-29ac-46f7-88fe-a8b24b9eee03.png) -->
 
 ## A little About Me:
 
