@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WebShivam/WebShivam/main/assets/banner.png" alt="Shivam Dubey Banner" style="max-width:100%;">
+  <img src="https://raw.githubusercontent.com/WebShivam/WebShivam/main/assets/banner.png" alt="Shivam Dubey Banner" style="max-width: 500px; height: 25;  width: 100%; ">
 </p>
 
 <h1 align="center">Hi there, I'm Shivam Dubey 👋</h1>
@@ -45,23 +45,20 @@
 
 ## 📊 GitHub Stats (Dark Mode Friendly)
 
-<p align="center">
+<p align="centre">
   <img src="https://github-readme-stats.vercel.app/api?username=WebShivam&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
   <img src="https://streak-stats.demolab.com?user=WebShivam&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebShivam&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🧵 Threads → [@webshivam](https://www.threads.net/@webshivam)  
+- 🧵 Threads → [@webshivam](https://www.threads.net/@web_shivam)  
 - 📝 Blog → [blog.webshivam.com](https://blog.webshivam.com)  
 - 💼 LinkedIn → [shivamdubey01](https://linkedin.com/in/shivamdubey01)  
-- 🐦 Twitter → [@WebShivam](https://twitter.com/WebShivam)  
+- 🐦 Twitter → [@WebShivam](https://twitter.com/web_shivam)  
 - 👨‍👩‍👧‍👦 Reddit → [r/ProgrammersofAssam](https://www.reddit.com/r/ProgrammersofAssam)
 
 ---
